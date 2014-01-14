@@ -1,7 +1,7 @@
 ajsend
 ======
 
-Platform independent network file sending (complete rewrite of jlansend)
+Platform independent network file sending (complete rewrite of [JLanSend](https://github.com/flat235/JLanSend))
 
 **Pronunciation:** Like "adjacent" (yes, pun intended ;)
 
