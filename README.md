@@ -20,7 +20,7 @@ That was pretty much hacked together in a couple of nights for personal use and 
  - on-the-fly hashing?
 
 **Crypto:**
- - is there a pgp lib for java?
+ - is there a pgp lib for java? [bouncycastle](https://www.bouncycastle.org/)
  - ssl with self signed certs and company mode?
 
 **TODO:**
